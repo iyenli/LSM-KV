@@ -1,0 +1,15 @@
+/data/
+/bin/
+/debug/
+/release/
+./lsm.pro
+./Makefile.Release
+./Makefile.Debug
+Makefile
+lsm.pro.user
+lsm.pro
+Makefile
+Makefile.Debug
+lsm.pro.user
+lsm.pro
+Makefile.Release
